@@ -1,0 +1,15 @@
+{
+  "pregunta": "¿Es una persona real?",
+  "si": {
+    "respuesta": "Albert Einstein"
+  },
+  "no": {
+    "pregunta": "¿Es de color rosa?",
+    "si": {
+      "respuesta": "La Dulce Princesa de Hora de Aventura"
+    },
+    "no": {
+      "respuesta": "Harry Potter"
+    }
+  }
+}

@@ -1,7 +1,49 @@
 {
   "pregunta": "¿Es una persona real?",
   "si": {
-    "respuesta": "Albert Einstein"
+    "pregunta": "Es negro",
+    "si": {
+      "respuesta": "Kanye West"
+    },
+    "no": {
+      "pregunta": "¿Es de una banda de heavymetal?",
+      "si": {
+        "respuesta": "Layne Staley de Alice in Chains"
+      },
+      "no": {
+        "pregunta": "¿Compro Twitter?",
+        "si": {
+          "respuesta": "Elon Mosk"
+        },
+        "no": {
+          "pregunta": "¿Aqui anda?",
+          "si": {
+            "respuesta": "Lupita Tik Tok"
+          },
+          "no": {
+            "pregunta": "SCH ACA ESTOY",
+            "si": {
+              "respuesta": "Paolita Suarez"
+            },
+            "no": {
+              "pregunta": "¿Tiene panzanocha?",
+              "si": {
+                "respuesta": "Aimep3"
+              },
+              "no": {
+                "pregunta": "¿Es una banda?",
+                "si": {
+                  "respuesta": "La Banda RadioHead"
+                },
+                "no": {
+                  "respuesta": "Albert Einstein"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
   },
   "no": {
     "pregunta": "¿Es de color rosa?",
@@ -9,7 +51,43 @@
       "respuesta": "La Dulce Princesa de Hora de Aventura"
     },
     "no": {
-      "respuesta": "Harry Potter"
+      "pregunta": "¿Es de un juego donde matas demonios?",
+      "si": {
+        "respuesta": "Dante de Devil May Cry"
+      },
+      "no": {
+        "pregunta": "¿Es de DC Comics?",
+        "si": {
+          "pregunta": "¿Esta pintado de payaso?",
+          "si": {
+            "respuesta": "El Guason"
+          },
+          "no": {
+            "respuesta": "Batman"
+          }
+        },
+        "no": {
+          "pregunta": "¿Tiene una DeathNote?",
+          "si": {
+            "respuesta": "Kira"
+          },
+          "no": {
+            "pregunta": "¿Le gustan las bananas?",
+            "si": {
+              "respuesta": "Jorge el Curioso"
+            },
+            "no": {
+              "pregunta": "¿Tiene un traje super padre?",
+              "si": {
+                "respuesta": "Tony Stark"
+              },
+              "no": {
+                "respuesta": "Harry Potter"
+              }
+            }
+          }
+        }
+      }
     }
   }
 }
